@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "my-flask-app"
-        REGISTRY = "prajwal773"  // Your DockerHub username
+        REGISTRY = "Prajwal"  // Your DockerHub username
     }
 
     stages {
